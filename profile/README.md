@@ -1,12 +1,20 @@
 # Bumkus Showcase
-The AI marketplace: tools for people first. Tester intake and public demos live here.
 
-## Links
+New ideas get tested here before anyone builds them for real.
 
-- [Bumkus-llc/Bumkus-showcase](https://github.com/Bumkus-llc/Bumkus-showcase) — the matching showcase repo in the company org.
-- [Bumkus-llc](https://github.com/Bumkus-llc) — the company org.
-- [Garrettwhited](https://github.com/Garrettwhited) — the venture studio org.
-- [Micro-plane](https://github.com/Micro-plane) — the Micro plane org.
-- [Toys-plane](https://github.com/Toys-plane) — the Toys plane org.
-- [Machines-plane](https://github.com/Machines-plane) — the Machines plane org.
-- [Chambers-plane](https://github.com/Chambers-plane) — the Chambers plane org.
+1. You bring an idea.
+2. We test it in a safe copy. Nothing real is risked.
+3. You get the result in writing. If it works, we build it together.
+
+## Our websites
+
+- My AI Assistance Office — myaiassistanceoffice.com
+- Bumkus — bumkus.com
+- AI Governance Office — theaigovernanceoffice.com
+- Bumkus Notes — bumkusnotes.com
+- Evie / GymFlow — bumkussport.com
+- Bubzy Boy — bubzyboy.com
+- Good Ol' Dad — goodoldad.marketing
+- The Showcase — bumkusshowcase.com
+
+The workshop: [Bumkus-llc](https://github.com/Bumkus-llc) · [Garrettwhited](https://github.com/Garrettwhited)
